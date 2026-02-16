@@ -1,5 +1,5 @@
 This script reproduces the Monte Carlo simulations
-used in the paper "Global Time as a Physical Construction".
+used in the paper "Global Time as a Physical Theory".
 
 Requirements:
 - Python >= 3.9
